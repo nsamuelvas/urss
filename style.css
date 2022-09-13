@@ -1,0 +1,14 @@
+body{
+    background-image: url(https://www.lilifolies-airsoft.com/Files/26487/Img/07/DRAPEAU-FLAG-FLAGG-URSS-Union-des-republiques-socialistes-sovietiques-AIRSOF.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}.n{
+    text-align: center;
+    color: yellow;
+}section{
+    background-color: yellow;
+}main{
+    background-color: yellow;
+}
